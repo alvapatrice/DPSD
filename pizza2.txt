@@ -1,0 +1,7 @@
+0, Complete pizza, 2500
+1, Meat choice
+1, Vegetable choice
+1, Delivery mode
+2, Meat choice, Beef, 2000
+2, Vegetable choice, Onion, 100
+2, Delivery mode, home, 500

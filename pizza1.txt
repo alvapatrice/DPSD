@@ -1,0 +1,11 @@
+0, Full Pizza, 3000
+1, Meat choice
+1, Vegetable choice
+1, Size choice
+1, Cheeze choice
+1, Delivery mode
+2, Meat choice, Beef, 2000
+2, Vegetable choice, Tamato, 0
+2, Size choice, big, 2000
+2, Cheeze choice, none, 0
+2, Delivery mode, home, 500
